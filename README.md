@@ -1,7 +1,6 @@
 # BloodBank
 This project was created for Receivers and Hospitals where a Hospital user can add blood sample to their blood bank and Receiver users can request for the blood sample. Skills has used like HTML, CSS, Bootstrap, JavaScript as a frontend, PHP as a backend and MySQL for the database.
 
-# OutPut
 # Home
 ![Screenshot (237)](https://user-images.githubusercontent.com/63193296/162628897-5c4ee306-1979-4dab-86c0-ebd1740b53dc.png)
 
